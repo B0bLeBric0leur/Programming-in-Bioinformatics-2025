@@ -1,3 +1,4 @@
+// this markup should not be visible in a nf file - MB
 {\rtf1\ansi\ansicpg1252\cocoartf2865
 \cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
